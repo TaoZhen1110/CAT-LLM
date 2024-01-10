@@ -2,8 +2,8 @@ CAT-LLM: Prompting Large Language Models with Text Style Definition for Chinese 
 ====
 Project Structure<br>
 ----
-The project is organized into several key directories and modules. Here's an overview of the project structure:
-.
+The project is organized into several key directories and modules. Here's an overview of the project structure:<br>
+
 ├── bert-base-chinese      # Store bert-base-chines file used in our experiment, .<br>
 ├── assets        # Store project assets, such as images, diagrams, or any visual elements used to enhance the presentation and understanding of the project.<br>
 ├── configs       # Store configuration files.<br>
