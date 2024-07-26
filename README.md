@@ -3,7 +3,7 @@
 ![CAT_LLM_Framework](Images/Framework.jpg)
 
 ## Introduction
-
+The CAT-LLM framework addresses the challenge of text style transfer in Chinese long texts, a field that has seen limited research compared to English sentence-level style transfer. Leveraging the capabilities of Large Language Models (LLMs), CAT-LLM integrates a bespoke Text Style Definition (TSD) module. This module comprehensively analyzes text features at both the word and sentence levels, ensuring the LLMs can accurately transfer the style of Chinese articles without compromising content integrity. Experimental results demonstrate CAT-LLM's superior performance in transfer accuracy and content preservation, showcasing its broad applicability across various LLMs. The framework introduces a novel evaluation paradigm by creating parallel datasets from five distinct Chinese articles, enhancing the accuracy of performance evaluation. 
 
 
 Project Structure<br>
