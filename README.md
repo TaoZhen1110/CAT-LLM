@@ -21,3 +21,13 @@ The project is organized into several key directories and modules. Here's an ove
 ├── ACC_BLEU_BERT                             # Store BLEU_BERT metrics.<br>
 ├── All_style_define                          # Store TSD module.<br>
 └── Content_preserve                          # Store Content_preserve code.<br>
+
+## Citation
+```
+@article{tao2024cat,
+  title={CAT-LLM: Prompting Large Language Models with Text Style Definition for Chinese Article-style Transfer},
+  author={Tao, Zhen and Xi, Dinghao and Li, Zhiyu and Tang, Liumin and Xu, Wei},
+  journal={arXiv preprint arXiv:2401.05707},
+  year={2024}
+}
+```
