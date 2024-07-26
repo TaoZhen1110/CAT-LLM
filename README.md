@@ -1,5 +1,11 @@
 # CAT-LLM: Style-enhanced Large Language Models with TextStyle Definition for Chinese Article-style Transfer
 
+![CAT_LLM_Framework](Images/Framework.jpg)
+
+
+
+
+
 Project Structure<br>
 ----
 The project is organized into several key directories and modules. Here's an overview of the project structure:<br>
