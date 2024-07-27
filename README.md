@@ -31,6 +31,12 @@ Before using CAT-LLM:
    ```
 
 3. Calculate Content Preservation: After computing the transfer accuracy, you need to calculate the content preservation by executing the `Content_preserve.py` script:
+   
+   ```bash
+   python Content_preserve.py
+   ```
+
+   
 
 ## Project Structure
 
