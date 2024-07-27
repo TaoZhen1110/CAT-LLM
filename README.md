@@ -47,6 +47,13 @@ CAT-LLM/
 │ ├── ChatGLM/
 │ └── GPT3.5/
 ├── TST_sentence                                 # Store TST_sentence classification models.
+├── data                                         # Store six books.
+│ ├── 1/                                         # Fortress Besieged
+│ ├── 2/                                         # The Scream
+│ ├── 3/                                         # The Fifteen Year of the Wanli Era
+│ ├── 4/                                         # Four Generations Under One Roof
+│ ├── 5/                                         # The Family Instruction of Zeng Guofan
+│ └── 6/                                         # The Three Body Problem
 ```
 
 
