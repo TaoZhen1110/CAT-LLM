@@ -30,6 +30,7 @@ Before using CAT-LLM:
    python Models/GPT-3.5/CAT+gpt3.5.py
    ```
 
+3. Calculate Content Preservation: After computing the transfer accuracy, you need to calculate the content preservation by executing the `Content_preserve.py` script:
 
 ## Project Structure
 
