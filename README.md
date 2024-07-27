@@ -41,6 +41,26 @@ Before using CAT-LLM:
 
 The project is organized into several key directories and modules. Here's an overview of the project structure:
 ```
+CAT-LLM/
+├── Models/        # Style generation model based on various LLMs.
+│ ├── Baichuan/
+│ ├── ChatGLM/
+│ └── GPT3.5/
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+```
 ├── bert-base-chinese                         # Store bert-base-chines file used in our experiment, .<br>
 ├── data                                      # Store five dataset.<br>
 ├── Models                                    # Core codebase.<br>
