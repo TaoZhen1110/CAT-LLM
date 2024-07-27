@@ -16,6 +16,10 @@ Before using CAT-LLM:
     pip install -r requirements.txt
     ```
 
+## How to Run the Program
+
+
+
 ## Project Structure
 
 The project is organized into several key directories and modules. Here's an overview of the project structure:
