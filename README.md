@@ -18,7 +18,7 @@ Before using CAT-LLM:
 
 ## How to Run the Program
 
-
+1. Run Style Definition Script: Execute the `All style Definition.py` script to initialize and configure the text style definitions required for the model. This script sets up the necessary parameters for style transfer.
 
 ## Project Structure
 
