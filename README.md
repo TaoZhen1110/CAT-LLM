@@ -20,7 +20,7 @@ Before using CAT-LLM:
 
 1. Run Style Definition Script: Execute the `All style Definition.py` script to initialize and configure the text style definitions required for the model. This script sets up the necessary parameters for style transfer.
 
-   ````bash
+   ```bash
    python All_style_Definition.py
    ```
 
