@@ -23,6 +23,12 @@ Before using CAT-LLM:
    ```bash
    python All_style_Definition.py
    ```
+   
+2. Run the Main Program: After setting up the style definitions, you need to execute various Python scripts located in the `Models` folder. For example, to run the `CAT+gpt3.5.py` script located in the `Models/GPT-3.5` folder, use the following command:
+   
+   ```bash
+   python Models/GPT-3.5/CAT+gpt3.5.py
+   ```
 
 
 ## Project Structure
